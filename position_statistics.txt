@@ -1,0 +1,1598 @@
+File: vio5_bach2.csv
+position 1: 0.635
+position 2: 0.072
+position 3: 0.090
+position 4: 0.088
+position 5: 0.115
+Number of position changes: 61
+Position change rate: 0.037
+
+File: vio10_beeth1.csv
+position 1: 0.699
+position 2: 0.088
+position 3: 0.144
+position 4: 0.050
+position 5: 0.019
+Number of position changes: 112
+Position change rate: 0.062
+
+File: vio4_mozart2_2.csv
+position 1: 0.481
+position 2: 0.028
+position 3: 0.417
+position 4: 0.062
+position 5: 0.009
+position 6: 0.004
+Number of position changes: 76
+Position change rate: 0.139
+
+File: vio6_flower.csv
+position 1: 0.239
+position 2: 0.027
+position 3: 0.699
+position 5: 0.013
+position 6: 0.009
+position 7: 0.013
+Number of position changes: 25
+Position change rate: 0.111
+
+File: vio10_beeth2_1.csv
+position 1: 0.636
+position 2: 0.101
+position 3: 0.242
+position 4: 0.006
+position 5: 0.014
+Number of position changes: 53
+Position change rate: 0.085
+
+File: vio9_beeth1.csv
+position 1: 0.702
+position 2: 0.049
+position 3: 0.178
+position 4: 0.052
+position 5: 0.019
+Number of position changes: 110
+Position change rate: 0.061
+
+File: vio8_mozart2_2.csv
+position 1: 0.413
+position 2: 0.064
+position 3: 0.424
+position 4: 0.084
+position 5: 0.011
+position 6: 0.004
+Number of position changes: 66
+Position change rate: 0.121
+
+File: vio8_beeth2_1.csv
+position 1: 0.668
+position 2: 0.112
+position 3: 0.194
+position 4: 0.010
+position 5: 0.016
+Number of position changes: 58
+Position change rate: 0.093
+
+File: vio3_mend1.csv
+position 1: 0.424
+position 2: 0.072
+position 3: 0.306
+position 4: 0.088
+position 5: 0.063
+position 6: 0.022
+position 7: 0.011
+position 8: 0.010
+position 9: 0.005
+Number of position changes: 140
+Position change rate: 0.171
+
+File: vio5_mend1.csv
+position 1: 0.378
+position 2: 0.093
+position 3: 0.303
+position 4: 0.112
+position 5: 0.069
+position 6: 0.019
+position 7: 0.011
+position 8: 0.010
+position 9: 0.005
+Number of position changes: 150
+Position change rate: 0.183
+
+File: vio3_mend3.csv
+position 1: 0.527
+position 2: 0.075
+position 3: 0.196
+position 4: 0.077
+position 5: 0.046
+position 6: 0.051
+position 7: 0.009
+position 8: 0.014
+position 9: 0.001
+position 12: 0.004
+Number of position changes: 119
+Position change rate: 0.139
+
+File: vio6_bach2.csv
+position 1: 0.627
+position 2: 0.076
+position 3: 0.096
+position 4: 0.087
+position 5: 0.115
+Number of position changes: 65
+Position change rate: 0.040
+
+File: vio3_beeth2_2.csv
+position 1: 0.686
+position 2: 0.088
+position 3: 0.178
+position 4: 0.018
+position 5: 0.014
+position 6: 0.016
+Number of position changes: 56
+Position change rate: 0.110
+
+File: vio1_mozart2_2.csv
+position 1: 0.426
+position 2: 0.072
+position 3: 0.400
+position 4: 0.090
+position 5: 0.009
+position 6: 0.004
+Number of position changes: 63
+Position change rate: 0.116
+
+File: vio6_beeth2_1.csv
+position 1: 0.613
+position 2: 0.124
+position 3: 0.231
+position 4: 0.011
+position 5: 0.021
+Number of position changes: 61
+Position change rate: 0.098
+
+File: vio7_beeth2_1.csv
+position 1: 0.665
+position 2: 0.122
+position 3: 0.183
+position 4: 0.022
+position 5: 0.008
+Number of position changes: 49
+Position change rate: 0.079
+
+File: vio3_mozart2_2.csv
+position 1: 0.429
+position 2: 0.051
+position 3: 0.418
+position 4: 0.079
+position 5: 0.022
+position 6: 0.002
+Number of position changes: 72
+Position change rate: 0.132
+
+File: vio10_elgar.csv
+position 1: 0.170
+position 2: 0.051
+position 3: 0.581
+position 4: 0.063
+position 5: 0.067
+position 6: 0.059
+position 7: 0.004
+position 9: 0.004
+Number of position changes: 69
+Position change rate: 0.273
+
+File: vio5_mozart2_1.csv
+position 1: 0.627
+position 2: 0.022
+position 3: 0.338
+position 4: 0.013
+Number of position changes: 46
+Position change rate: 0.085
+
+File: vio4_beeth1.csv
+position 1: 0.732
+position 2: 0.049
+position 3: 0.163
+position 4: 0.029
+position 5: 0.027
+Number of position changes: 104
+Position change rate: 0.058
+
+File: vio8_elgar.csv
+position 1: 0.158
+position 2: 0.055
+position 3: 0.530
+position 4: 0.123
+position 5: 0.055
+position 6: 0.067
+position 7: 0.008
+position 9: 0.004
+Number of position changes: 82
+Position change rate: 0.324
+
+File: vio1_mozart1.csv
+position 1: 0.517
+position 2: 0.068
+position 3: 0.297
+position 4: 0.087
+position 5: 0.026
+position 6: 0.005
+Number of position changes: 101
+Position change rate: 0.090
+
+File: vio7_bach1.csv
+position 1: 0.730
+position 2: 0.100
+position 3: 0.168
+position 4: 0.002
+Number of position changes: 33
+Position change rate: 0.061
+
+File: vio2_wind.csv
+position 1: 0.144
+position 2: 0.046
+position 3: 0.472
+position 4: 0.221
+position 5: 0.092
+position 6: 0.005
+position 7: 0.021
+Number of position changes: 40
+Position change rate: 0.205
+
+File: vio4_mend2.csv
+position 1: 0.567
+position 2: 0.069
+position 3: 0.216
+position 4: 0.035
+position 5: 0.069
+position 6: 0.025
+position 7: 0.004
+position 8: 0.007
+position 9: 0.004
+position 11: 0.003
+Number of position changes: 118
+Position change rate: 0.096
+
+File: vio9_bach1.csv
+position 1: 0.695
+position 2: 0.142
+position 3: 0.163
+Number of position changes: 39
+Position change rate: 0.072
+
+File: vio8_flower.csv
+position 1: 0.164
+position 2: 0.124
+position 3: 0.642
+position 4: 0.035
+position 5: 0.022
+position 7: 0.013
+Number of position changes: 38
+Position change rate: 0.168
+
+File: vio1_beeth1.csv
+position 1: 0.731
+position 2: 0.055
+position 3: 0.156
+position 4: 0.038
+position 5: 0.019
+Number of position changes: 102
+Position change rate: 0.057
+
+File: vio2_mozart2_1.csv
+position 1: 0.547
+position 2: 0.045
+position 3: 0.367
+position 4: 0.041
+Number of position changes: 60
+Position change rate: 0.111
+
+File: vio1_mend3.csv
+position 1: 0.458
+position 2: 0.099
+position 3: 0.214
+position 4: 0.100
+position 5: 0.043
+position 6: 0.048
+position 7: 0.015
+position 8: 0.009
+position 9: 0.009
+position 12: 0.004
+Number of position changes: 123
+Position change rate: 0.144
+
+File: vio9_mozart2_1.csv
+position 1: 0.551
+position 2: 0.019
+position 3: 0.414
+position 4: 0.017
+Number of position changes: 52
+Position change rate: 0.096
+
+File: vio9_mozart1.csv
+position 1: 0.504
+position 2: 0.066
+position 3: 0.310
+position 4: 0.087
+position 5: 0.012
+position 6: 0.019
+position 7: 0.002
+Number of position changes: 99
+Position change rate: 0.092
+
+File: vio7_mend2.csv
+position 1: 0.554
+position 2: 0.069
+position 3: 0.219
+position 4: 0.038
+position 5: 0.076
+position 6: 0.025
+position 7: 0.004
+position 8: 0.007
+position 9: 0.004
+position 11: 0.003
+Number of position changes: 121
+Position change rate: 0.099
+
+File: vio6_beeth1.csv
+position 1: 0.700
+position 2: 0.058
+position 3: 0.180
+position 4: 0.038
+position 5: 0.025
+Number of position changes: 108
+Position change rate: 0.060
+
+File: vio1_mozart2_1.csv
+position 1: 0.588
+position 2: 0.063
+position 3: 0.332
+position 4: 0.017
+Number of position changes: 50
+Position change rate: 0.093
+
+File: vio3_beeth2_1.csv
+position 1: 0.806
+position 2: 0.059
+position 3: 0.133
+position 4: 0.002
+Number of position changes: 43
+Position change rate: 0.069
+
+File: vio5_beeth2_2.csv
+position 1: 0.543
+position 2: 0.139
+position 3: 0.233
+position 4: 0.055
+position 5: 0.016
+position 6: 0.014
+Number of position changes: 67
+Position change rate: 0.131
+
+File: vio4_elgar.csv
+position 1: 0.142
+position 2: 0.075
+position 3: 0.585
+position 4: 0.063
+position 5: 0.063
+position 6: 0.059
+position 7: 0.012
+Number of position changes: 63
+Position change rate: 0.249
+
+File: vio3_bach2.csv
+position 1: 0.624
+position 2: 0.085
+position 3: 0.089
+position 4: 0.088
+position 5: 0.115
+Number of position changes: 54
+Position change rate: 0.033
+
+File: vio10_wind.csv
+position 1: 0.138
+position 2: 0.077
+position 3: 0.523
+position 4: 0.138
+position 5: 0.103
+position 7: 0.021
+Number of position changes: 41
+Position change rate: 0.210
+
+File: vio10_mend2.csv
+position 1: 0.567
+position 2: 0.069
+position 3: 0.216
+position 4: 0.035
+position 5: 0.069
+position 6: 0.025
+position 7: 0.004
+position 8: 0.007
+position 9: 0.004
+position 11: 0.003
+Number of position changes: 118
+Position change rate: 0.096
+
+File: vio5_elgar.csv
+position 1: 0.126
+position 2: 0.055
+position 3: 0.585
+position 4: 0.103
+position 5: 0.059
+position 6: 0.047
+position 7: 0.024
+Number of position changes: 54
+Position change rate: 0.213
+
+File: vio10_mend3.csv
+position 1: 0.461
+position 2: 0.085
+position 3: 0.218
+position 4: 0.109
+position 5: 0.047
+position 6: 0.042
+position 7: 0.015
+position 8: 0.011
+position 9: 0.008
+position 12: 0.004
+Number of position changes: 121
+Position change rate: 0.141
+
+File: vio4_mozart2_1.csv
+position 1: 0.588
+position 2: 0.020
+position 3: 0.378
+position 4: 0.013
+Number of position changes: 46
+Position change rate: 0.085
+
+File: vio2_mozart2_2.csv
+position 1: 0.448
+position 2: 0.055
+position 3: 0.402
+position 4: 0.083
+position 5: 0.009
+position 6: 0.004
+Number of position changes: 68
+Position change rate: 0.125
+
+File: vio10_bach2.csv
+position 1: 0.581
+position 2: 0.102
+position 3: 0.109
+position 4: 0.112
+position 5: 0.095
+Number of position changes: 70
+Position change rate: 0.043
+
+File: vio10_bach1.csv
+position 1: 0.636
+position 2: 0.211
+position 3: 0.153
+Number of position changes: 47
+Position change rate: 0.087
+
+File: vio2_mend1.csv
+position 1: 0.379
+position 2: 0.083
+position 3: 0.312
+position 4: 0.107
+position 5: 0.074
+position 6: 0.018
+position 7: 0.016
+position 8: 0.007
+position 9: 0.004
+Number of position changes: 150
+Position change rate: 0.183
+
+File: vio1_flower.csv
+position 1: 0.115
+position 2: 0.173
+position 3: 0.593
+position 4: 0.062
+position 5: 0.035
+position 6: 0.009
+position 8: 0.013
+Number of position changes: 36
+Position change rate: 0.159
+
+File: vio10_flower.csv
+position 1: 0.292
+position 2: 0.217
+position 3: 0.447
+position 4: 0.009
+position 5: 0.013
+position 6: 0.009
+position 7: 0.013
+Number of position changes: 33
+Position change rate: 0.146
+
+File: vio9_mozart2_2.csv
+position 1: 0.422
+position 2: 0.040
+position 3: 0.422
+position 4: 0.099
+position 5: 0.011
+position 6: 0.006
+Number of position changes: 66
+Position change rate: 0.121
+
+File: vio4_bach2.csv
+position 1: 0.630
+position 2: 0.082
+position 3: 0.086
+position 4: 0.088
+position 5: 0.115
+Number of position changes: 57
+Position change rate: 0.035
+
+File: vio4_mozart1.csv
+position 1: 0.535
+position 2: 0.054
+position 3: 0.303
+position 4: 0.066
+position 5: 0.037
+position 6: 0.005
+Number of position changes: 100
+Position change rate: 0.089
+
+File: vio2_mozart1.csv
+position 1: 0.483
+position 2: 0.135
+position 3: 0.264
+position 4: 0.087
+position 5: 0.027
+position 6: 0.004
+Number of position changes: 121
+Position change rate: 0.108
+
+File: vio6_beeth2_2.csv
+position 1: 0.531
+position 2: 0.135
+position 3: 0.235
+position 4: 0.069
+position 5: 0.014
+position 6: 0.016
+Number of position changes: 71
+Position change rate: 0.139
+
+File: vio7_mozart2_2.csv
+position 1: 0.429
+position 2: 0.044
+position 3: 0.409
+position 4: 0.103
+position 5: 0.009
+position 6: 0.006
+Number of position changes: 69
+Position change rate: 0.127
+
+File: vio10_mend1.csv
+position 1: 0.378
+position 2: 0.093
+position 3: 0.301
+position 4: 0.117
+position 5: 0.067
+position 6: 0.019
+position 7: 0.011
+position 8: 0.012
+position 9: 0.002
+Number of position changes: 149
+Position change rate: 0.181
+
+File: vio6_wind.csv
+position 1: 0.138
+position 2: 0.092
+position 3: 0.426
+position 4: 0.205
+position 5: 0.118
+position 7: 0.021
+Number of position changes: 38
+Position change rate: 0.195
+
+File: vio5_wind.csv
+position 1: 0.190
+position 2: 0.077
+position 3: 0.533
+position 4: 0.062
+position 5: 0.118
+position 7: 0.021
+Number of position changes: 43
+Position change rate: 0.221
+
+File: vio8_mend2.csv
+position 1: 0.568
+position 2: 0.069
+position 3: 0.215
+position 4: 0.035
+position 5: 0.072
+position 6: 0.023
+position 7: 0.004
+position 8: 0.007
+position 9: 0.003
+position 11: 0.004
+Number of position changes: 118
+Position change rate: 0.096
+
+File: vio6_elgar.csv
+position 1: 0.162
+position 2: 0.063
+position 3: 0.545
+position 4: 0.087
+position 5: 0.071
+position 6: 0.067
+position 7: 0.004
+Number of position changes: 68
+Position change rate: 0.269
+
+File: vio2_bach1.csv
+position 1: 0.634
+position 2: 0.292
+position 3: 0.074
+Number of position changes: 43
+Position change rate: 0.079
+
+File: vio7_bach2.csv
+position 1: 0.608
+position 2: 0.090
+position 3: 0.100
+position 4: 0.088
+position 5: 0.115
+Number of position changes: 66
+Position change rate: 0.041
+
+File: vio5_beeth1.csv
+position 1: 0.677
+position 2: 0.043
+position 3: 0.229
+position 4: 0.030
+position 5: 0.021
+Number of position changes: 119
+Position change rate: 0.066
+
+File: vio6_mend1.csv
+position 1: 0.378
+position 2: 0.089
+position 3: 0.303
+position 4: 0.118
+position 5: 0.067
+position 6: 0.019
+position 7: 0.011
+position 8: 0.010
+position 9: 0.005
+Number of position changes: 150
+Position change rate: 0.183
+
+File: vio9_mend2.csv
+position 1: 0.563
+position 2: 0.069
+position 3: 0.220
+position 4: 0.035
+position 5: 0.072
+position 6: 0.023
+position 7: 0.004
+position 8: 0.007
+position 9: 0.004
+position 11: 0.003
+Number of position changes: 120
+Position change rate: 0.098
+
+File: vio8_bach2.csv
+position 1: 0.630
+position 2: 0.075
+position 3: 0.092
+position 4: 0.088
+position 5: 0.115
+Number of position changes: 60
+Position change rate: 0.037
+
+File: vio2_beeth2_1.csv
+position 1: 0.643
+position 2: 0.242
+position 3: 0.087
+position 4: 0.029
+Number of position changes: 56
+Position change rate: 0.090
+
+File: vio3_beeth1.csv
+position 1: 0.737
+position 2: 0.050
+position 3: 0.156
+position 4: 0.037
+position 5: 0.021
+Number of position changes: 102
+Position change rate: 0.057
+
+File: vio8_mozart1.csv
+position 1: 0.508
+position 2: 0.121
+position 3: 0.260
+position 4: 0.081
+position 5: 0.027
+position 6: 0.004
+Number of position changes: 109
+Position change rate: 0.098
+
+File: vio8_mozart2_1.csv
+position 1: 0.544
+position 2: 0.032
+position 3: 0.397
+position 4: 0.028
+Number of position changes: 53
+Position change rate: 0.098
+
+File: vio8_mend3.csv
+position 1: 0.486
+position 2: 0.083
+position 3: 0.210
+position 4: 0.096
+position 5: 0.046
+position 6: 0.042
+position 7: 0.019
+position 8: 0.005
+position 9: 0.011
+position 12: 0.004
+Number of position changes: 122
+Position change rate: 0.143
+
+File: vio1_beeth2_1.csv
+position 1: 0.681
+position 2: 0.175
+position 3: 0.139
+position 4: 0.005
+Number of position changes: 47
+Position change rate: 0.075
+
+File: vio1_beeth2_2.csv
+position 1: 0.575
+position 2: 0.145
+position 3: 0.210
+position 4: 0.041
+position 5: 0.014
+position 6: 0.016
+Number of position changes: 61
+Position change rate: 0.120
+
+File: vio4_flower.csv
+position 1: 0.243
+position 3: 0.677
+position 4: 0.044
+position 5: 0.013
+position 6: 0.009
+position 7: 0.013
+Number of position changes: 31
+Position change rate: 0.137
+
+File: vio5_mozart1.csv
+position 1: 0.545
+position 2: 0.054
+position 3: 0.294
+position 4: 0.057
+position 5: 0.041
+position 6: 0.009
+Number of position changes: 106
+Position change rate: 0.095
+
+File: vio3_elgar.csv
+position 1: 0.186
+position 2: 0.024
+position 3: 0.605
+position 4: 0.111
+position 5: 0.043
+position 6: 0.028
+position 7: 0.004
+Number of position changes: 56
+Position change rate: 0.221
+
+File: vio7_mend1.csv
+position 1: 0.386
+position 2: 0.088
+position 3: 0.296
+position 4: 0.118
+position 5: 0.067
+position 6: 0.019
+position 7: 0.011
+position 8: 0.010
+position 9: 0.005
+Number of position changes: 150
+Position change rate: 0.183
+
+File: vio9_mend1.csv
+position 1: 0.368
+position 2: 0.089
+position 3: 0.314
+position 4: 0.106
+position 5: 0.078
+position 6: 0.019
+position 7: 0.007
+position 8: 0.013
+position 9: 0.005
+Number of position changes: 158
+Position change rate: 0.192
+
+File: vio7_beeth1.csv
+position 1: 0.701
+position 2: 0.070
+position 3: 0.166
+position 4: 0.038
+position 5: 0.024
+position 6: 0.002
+Number of position changes: 111
+Position change rate: 0.062
+
+File: vio1_mend2.csv
+position 1: 0.558
+position 2: 0.071
+position 3: 0.207
+position 4: 0.051
+position 5: 0.072
+position 6: 0.023
+position 7: 0.004
+position 8: 0.007
+position 9: 0.004
+position 11: 0.003
+Number of position changes: 121
+Position change rate: 0.099
+
+File: vio3_bach1.csv
+position 1: 0.804
+position 2: 0.100
+position 3: 0.096
+Number of position changes: 39
+Position change rate: 0.072
+
+File: vio2_beeth2_2.csv
+position 1: 0.544
+position 2: 0.139
+position 3: 0.232
+position 4: 0.051
+position 5: 0.018
+position 6: 0.016
+Number of position changes: 65
+Position change rate: 0.128
+
+File: vio5_flower.csv
+position 1: 0.646
+position 2: 0.004
+position 3: 0.310
+position 4: 0.004
+position 5: 0.018
+position 7: 0.009
+position 8: 0.009
+Number of position changes: 21
+Position change rate: 0.093
+
+File: vio3_wind.csv
+position 1: 0.289
+position 2: 0.036
+position 3: 0.515
+position 4: 0.088
+position 5: 0.052
+position 7: 0.021
+Number of position changes: 42
+Position change rate: 0.216
+
+File: vio9_beeth2_2.csv
+position 1: 0.592
+position 2: 0.122
+position 3: 0.239
+position 4: 0.018
+position 5: 0.010
+position 6: 0.016
+position 7: 0.004
+Number of position changes: 58
+Position change rate: 0.114
+
+File: vio5_bach1.csv
+position 1: 0.769
+position 2: 0.081
+position 3: 0.150
+Number of position changes: 29
+Position change rate: 0.054
+
+File: vio5_mend2.csv
+position 1: 0.574
+position 2: 0.072
+position 3: 0.207
+position 4: 0.035
+position 5: 0.069
+position 6: 0.025
+position 7: 0.007
+position 8: 0.004
+position 9: 0.003
+position 11: 0.004
+Number of position changes: 118
+Position change rate: 0.096
+
+File: vio4_bach1.csv
+position 1: 0.691
+position 2: 0.089
+position 3: 0.213
+position 4: 0.007
+Number of position changes: 41
+Position change rate: 0.076
+
+File: vio1_elgar.csv
+position 1: 0.138
+position 2: 0.071
+position 3: 0.565
+position 4: 0.099
+position 5: 0.055
+position 6: 0.067
+position 7: 0.004
+Number of position changes: 52
+Position change rate: 0.206
+
+File: vio7_wind.csv
+position 1: 0.138
+position 2: 0.056
+position 3: 0.492
+position 4: 0.195
+position 5: 0.097
+position 7: 0.021
+Number of position changes: 39
+Position change rate: 0.200
+
+File: vio3_flower.csv
+position 1: 0.606
+position 3: 0.358
+position 5: 0.018
+position 7: 0.009
+position 8: 0.009
+Number of position changes: 21
+Position change rate: 0.093
+
+File: vio1_bach2.csv
+position 1: 0.629
+position 2: 0.068
+position 3: 0.098
+position 4: 0.090
+position 5: 0.115
+Number of position changes: 46
+Position change rate: 0.028
+
+File: vio7_beeth2_2.csv
+position 1: 0.565
+position 2: 0.116
+position 3: 0.259
+position 4: 0.033
+position 5: 0.014
+position 6: 0.014
+Number of position changes: 65
+Position change rate: 0.127
+
+File: vio8_mend1.csv
+position 1: 0.369
+position 2: 0.090
+position 3: 0.312
+position 4: 0.117
+position 5: 0.067
+position 6: 0.019
+position 7: 0.011
+position 8: 0.010
+position 9: 0.005
+Number of position changes: 152
+Position change rate: 0.185
+
+File: vio3_mozart1.csv
+position 1: 0.508
+position 2: 0.082
+position 3: 0.286
+position 4: 0.092
+position 5: 0.026
+position 6: 0.005
+Number of position changes: 109
+Position change rate: 0.097
+
+File: vio5_mozart2_2.csv
+position 1: 0.413
+position 2: 0.046
+position 3: 0.407
+position 4: 0.119
+position 5: 0.009
+position 6: 0.006
+Number of position changes: 64
+Position change rate: 0.117
+
+File: vio10_mozart2_1.csv
+position 1: 0.584
+position 2: 0.028
+position 3: 0.377
+position 4: 0.011
+Number of position changes: 49
+Position change rate: 0.091
+
+File: vio6_mozart2_2.csv
+position 1: 0.408
+position 2: 0.080
+position 3: 0.406
+position 4: 0.091
+position 5: 0.013
+position 6: 0.002
+Number of position changes: 64
+Position change rate: 0.117
+
+File: vio8_beeth1.csv
+position 1: 0.703
+position 2: 0.058
+position 3: 0.178
+position 4: 0.040
+position 5: 0.020
+position 6: 0.001
+Number of position changes: 107
+Position change rate: 0.059
+
+File: vio7_mend3.csv
+position 1: 0.459
+position 2: 0.091
+position 3: 0.242
+position 4: 0.083
+position 5: 0.044
+position 6: 0.053
+position 7: 0.006
+position 8: 0.018
+position 9: 0.001
+position 11: 0.004
+Number of position changes: 121
+Position change rate: 0.141
+
+File: vio6_mend2.csv
+position 1: 0.549
+position 2: 0.069
+position 3: 0.226
+position 4: 0.035
+position 5: 0.077
+position 6: 0.025
+position 7: 0.004
+position 8: 0.007
+position 9: 0.003
+position 11: 0.004
+Number of position changes: 123
+Position change rate: 0.100
+
+File: vio5_mend3.csv
+position 1: 0.456
+position 2: 0.091
+position 3: 0.241
+position 4: 0.088
+position 5: 0.041
+position 6: 0.047
+position 7: 0.015
+position 8: 0.009
+position 9: 0.009
+position 12: 0.004
+Number of position changes: 119
+Position change rate: 0.139
+
+File: vio3_mend2.csv
+position 1: 0.569
+position 2: 0.069
+position 3: 0.214
+position 4: 0.033
+position 5: 0.071
+position 6: 0.025
+position 7: 0.007
+position 8: 0.004
+position 9: 0.004
+position 11: 0.003
+Number of position changes: 115
+Position change rate: 0.094
+
+File: vio1_mend1.csv
+position 1: 0.390
+position 2: 0.089
+position 3: 0.289
+position 4: 0.119
+position 5: 0.067
+position 6: 0.021
+position 7: 0.011
+position 8: 0.010
+position 9: 0.005
+Number of position changes: 148
+Position change rate: 0.180
+
+File: vio8_bach1.csv
+position 1: 0.590
+position 2: 0.185
+position 3: 0.196
+position 4: 0.030
+Number of position changes: 59
+Position change rate: 0.109
+
+File: vio1_wind.csv
+position 1: 0.108
+position 2: 0.097
+position 3: 0.323
+position 4: 0.344
+position 5: 0.108
+position 7: 0.021
+Number of position changes: 29
+Position change rate: 0.149
+
+File: vio4_beeth2_2.csv
+position 1: 0.557
+position 2: 0.086
+position 3: 0.273
+position 4: 0.055
+position 5: 0.014
+position 6: 0.016
+Number of position changes: 65
+Position change rate: 0.127
+
+File: vio9_mend3.csv
+position 1: 0.473
+position 2: 0.093
+position 3: 0.232
+position 4: 0.071
+position 5: 0.046
+position 6: 0.047
+position 7: 0.015
+position 8: 0.009
+position 9: 0.009
+position 12: 0.004
+Number of position changes: 121
+Position change rate: 0.141
+
+File: vio8_beeth2_2.csv
+position 1: 0.520
+position 2: 0.088
+position 3: 0.265
+position 4: 0.094
+position 5: 0.010
+position 6: 0.022
+position 7: 0.002
+Number of position changes: 68
+Position change rate: 0.133
+
+File: vio9_elgar.csv
+position 1: 0.182
+position 2: 0.047
+position 3: 0.617
+position 4: 0.032
+position 5: 0.051
+position 6: 0.055
+position 7: 0.016
+Number of position changes: 69
+Position change rate: 0.273
+
+File: vio6_mend3.csv
+position 1: 0.460
+position 2: 0.090
+position 3: 0.216
+position 4: 0.106
+position 5: 0.047
+position 6: 0.043
+position 7: 0.015
+position 8: 0.011
+position 9: 0.008
+position 12: 0.004
+Number of position changes: 122
+Position change rate: 0.143
+
+File: vio2_beeth1.csv
+position 1: 0.718
+position 2: 0.059
+position 3: 0.165
+position 4: 0.038
+position 5: 0.020
+Number of position changes: 111
+Position change rate: 0.062
+
+File: vio2_mend2.csv
+position 1: 0.567
+position 2: 0.069
+position 3: 0.216
+position 4: 0.035
+position 5: 0.069
+position 6: 0.025
+position 7: 0.004
+position 8: 0.007
+position 9: 0.004
+position 11: 0.003
+Number of position changes: 118
+Position change rate: 0.096
+
+File: vio9_bach2.csv
+position 1: 0.640
+position 2: 0.072
+position 3: 0.086
+position 4: 0.088
+position 5: 0.115
+Number of position changes: 55
+Position change rate: 0.034
+
+File: vio7_mozart1.csv
+position 1: 0.536
+position 2: 0.073
+position 3: 0.274
+position 4: 0.090
+position 5: 0.022
+position 6: 0.004
+Number of position changes: 98
+Position change rate: 0.088
+
+File: vio10_mozart2_2.csv
+position 1: 0.407
+position 2: 0.099
+position 3: 0.407
+position 4: 0.073
+position 5: 0.009
+position 6: 0.004
+Number of position changes: 62
+Position change rate: 0.114
+
+File: vio3_mozart2_1.csv
+position 1: 0.646
+position 2: 0.004
+position 3: 0.333
+position 4: 0.017
+Number of position changes: 49
+Position change rate: 0.091
+
+File: vio10_mozart1.csv
+position 1: 0.518
+position 2: 0.065
+position 3: 0.298
+position 4: 0.088
+position 5: 0.026
+position 6: 0.005
+Number of position changes: 102
+Position change rate: 0.091
+
+File: vio9_flower.csv
+position 1: 0.177
+position 2: 0.066
+position 3: 0.708
+position 4: 0.009
+position 5: 0.018
+position 6: 0.009
+position 7: 0.013
+Number of position changes: 34
+Position change rate: 0.150
+
+File: vio4_mend1.csv
+position 1: 0.352
+position 2: 0.083
+position 3: 0.340
+position 4: 0.106
+position 5: 0.074
+position 6: 0.018
+position 7: 0.016
+position 8: 0.007
+position 9: 0.004
+Number of position changes: 150
+Position change rate: 0.183
+
+File: vio5_beeth2_1.csv
+position 1: 0.703
+position 2: 0.104
+position 3: 0.167
+position 4: 0.010
+position 5: 0.016
+Number of position changes: 53
+Position change rate: 0.085
+
+File: vio7_mozart2_1.csv
+position 1: 0.590
+position 2: 0.048
+position 3: 0.349
+position 4: 0.013
+Number of position changes: 46
+Position change rate: 0.085
+
+File: vio2_bach2.csv
+position 1: 0.636
+position 2: 0.076
+position 3: 0.087
+position 4: 0.087
+position 5: 0.115
+Number of position changes: 54
+Position change rate: 0.033
+
+File: vio6_mozart2_1.csv
+position 1: 0.501
+position 2: 0.054
+position 3: 0.362
+position 4: 0.083
+Number of position changes: 62
+Position change rate: 0.115
+
+File: vio9_beeth2_1.csv
+position 1: 0.706
+position 2: 0.088
+position 3: 0.185
+position 4: 0.006
+position 5: 0.014
+Number of position changes: 50
+Position change rate: 0.080
+
+File: vio10_beeth2_2.csv
+position 1: 0.575
+position 2: 0.135
+position 3: 0.231
+position 4: 0.029
+position 5: 0.014
+position 6: 0.016
+Number of position changes: 63
+Position change rate: 0.124
+
+File: vio9_wind.csv
+position 1: 0.123
+position 2: 0.056
+position 3: 0.385
+position 4: 0.292
+position 5: 0.113
+position 6: 0.015
+position 7: 0.015
+Number of position changes: 46
+Position change rate: 0.236
+
+File: vio2_flower.csv
+position 1: 0.305
+position 2: 0.058
+position 3: 0.593
+position 4: 0.004
+position 5: 0.018
+position 6: 0.009
+position 8: 0.013
+Number of position changes: 35
+Position change rate: 0.155
+
+File: vio7_elgar.csv
+position 1: 0.182
+position 2: 0.043
+position 3: 0.526
+position 4: 0.091
+position 5: 0.075
+position 6: 0.071
+position 7: 0.012
+Number of position changes: 73
+Position change rate: 0.289
+
+File: vio1_bach1.csv
+position 1: 0.799
+position 2: 0.111
+position 3: 0.091
+Number of position changes: 24
+Position change rate: 0.044
+
+File: vio4_mend3.csv
+position 1: 0.459
+position 2: 0.091
+position 3: 0.225
+position 4: 0.099
+position 5: 0.041
+position 6: 0.047
+position 7: 0.015
+position 8: 0.009
+position 9: 0.009
+position 12: 0.004
+Number of position changes: 122
+Position change rate: 0.143
+
+File: vio6_mozart1.csv
+position 1: 0.513
+position 2: 0.118
+position 3: 0.258
+position 4: 0.079
+position 5: 0.027
+position 6: 0.004
+Number of position changes: 108
+Position change rate: 0.097
+
+File: vio6_bach1.csv
+position 1: 0.556
+position 2: 0.203
+position 3: 0.231
+position 4: 0.009
+Number of position changes: 59
+Position change rate: 0.109
+
+File: vio2_mend3.csv
+position 1: 0.481
+position 2: 0.090
+position 3: 0.209
+position 4: 0.098
+position 5: 0.039
+position 6: 0.051
+position 7: 0.009
+position 8: 0.018
+position 9: 0.001
+position 12: 0.004
+Number of position changes: 128
+Position change rate: 0.150
+
+File: vio8_wind.csv
+position 1: 0.128
+position 2: 0.056
+position 3: 0.544
+position 4: 0.138
+position 5: 0.097
+position 6: 0.015
+position 7: 0.021
+Number of position changes: 46
+Position change rate: 0.236
+
+File: vio2_elgar.csv
+position 1: 0.126
+position 2: 0.071
+position 3: 0.557
+position 4: 0.059
+position 5: 0.107
+position 6: 0.075
+position 7: 0.004
+Number of position changes: 61
+Position change rate: 0.241
+
+File: vio4_wind.csv
+position 1: 0.138
+position 2: 0.056
+position 3: 0.523
+position 4: 0.159
+position 5: 0.103
+position 7: 0.021
+Number of position changes: 38
+Position change rate: 0.195
+
+File: vio7_flower.csv
+position 1: 0.265
+position 2: 0.150
+position 3: 0.540
+position 4: 0.009
+position 5: 0.013
+position 6: 0.009
+position 7: 0.013
+Number of position changes: 31
+Position change rate: 0.137
+
+File: vio4_beeth2_1.csv
+position 1: 0.679
+position 2: 0.093
+position 3: 0.196
+position 4: 0.011
+position 5: 0.021
+Number of position changes: 54
+Position change rate: 0.087
+
+
+Piece Labels:
+vio5_bach2.csv: Level=medium, Shifting=less shifting
+vio10_beeth1.csv: Level=medium, Shifting=normal shifting
+vio4_mozart2_2.csv: Level=medium, Shifting=normal shifting
+vio6_flower.csv: Level=medium, Shifting=normal shifting
+vio10_beeth2_1.csv: Level=medium, Shifting=normal shifting
+vio9_beeth1.csv: Level=beginner, Shifting=normal shifting
+vio8_mozart2_2.csv: Level=medium, Shifting=normal shifting
+vio8_beeth2_1.csv: Level=medium, Shifting=normal shifting
+vio3_mend1.csv: Level=medium, Shifting=normal shifting
+vio5_mend1.csv: Level=medium, Shifting=normal shifting
+vio3_mend3.csv: Level=medium, Shifting=normal shifting
+vio6_bach2.csv: Level=medium, Shifting=less shifting
+vio3_beeth2_2.csv: Level=medium, Shifting=normal shifting
+vio1_mozart2_2.csv: Level=medium, Shifting=normal shifting
+vio6_beeth2_1.csv: Level=medium, Shifting=normal shifting
+vio7_beeth2_1.csv: Level=medium, Shifting=normal shifting
+vio3_mozart2_2.csv: Level=medium, Shifting=normal shifting
+vio10_elgar.csv: Level=medium, Shifting=more shifting
+vio5_mozart2_1.csv: Level=medium, Shifting=normal shifting
+vio4_beeth1.csv: Level=beginner, Shifting=normal shifting
+vio8_elgar.csv: Level=advanced, Shifting=more shifting
+vio1_mozart1.csv: Level=medium, Shifting=normal shifting
+vio7_bach1.csv: Level=beginner, Shifting=normal shifting
+vio2_wind.csv: Level=advanced, Shifting=normal shifting
+vio4_mend2.csv: Level=medium, Shifting=normal shifting
+vio9_bach1.csv: Level=medium, Shifting=normal shifting
+vio8_flower.csv: Level=medium, Shifting=normal shifting
+vio1_beeth1.csv: Level=beginner, Shifting=less shifting
+vio2_mozart2_1.csv: Level=medium, Shifting=normal shifting
+vio1_mend3.csv: Level=medium, Shifting=normal shifting
+vio9_mozart2_1.csv: Level=medium, Shifting=normal shifting
+vio9_mozart1.csv: Level=medium, Shifting=normal shifting
+vio7_mend2.csv: Level=medium, Shifting=normal shifting
+vio6_beeth1.csv: Level=medium, Shifting=normal shifting
+vio1_mozart2_1.csv: Level=medium, Shifting=normal shifting
+vio3_beeth2_1.csv: Level=beginner, Shifting=normal shifting
+vio5_beeth2_2.csv: Level=medium, Shifting=normal shifting
+vio4_elgar.csv: Level=advanced, Shifting=more shifting
+vio3_bach2.csv: Level=medium, Shifting=less shifting
+vio10_wind.csv: Level=advanced, Shifting=more shifting
+vio10_mend2.csv: Level=medium, Shifting=normal shifting
+vio5_elgar.csv: Level=advanced, Shifting=more shifting
+vio10_mend3.csv: Level=medium, Shifting=normal shifting
+vio4_mozart2_1.csv: Level=medium, Shifting=normal shifting
+vio2_mozart2_2.csv: Level=medium, Shifting=normal shifting
+vio10_bach2.csv: Level=medium, Shifting=less shifting
+vio10_bach1.csv: Level=medium, Shifting=normal shifting
+vio2_mend1.csv: Level=medium, Shifting=normal shifting
+vio1_flower.csv: Level=advanced, Shifting=normal shifting
+vio10_flower.csv: Level=medium, Shifting=normal shifting
+vio9_mozart2_2.csv: Level=medium, Shifting=normal shifting
+vio4_bach2.csv: Level=medium, Shifting=less shifting
+vio4_mozart1.csv: Level=medium, Shifting=normal shifting
+vio2_mozart1.csv: Level=medium, Shifting=normal shifting
+vio6_beeth2_2.csv: Level=medium, Shifting=normal shifting
+vio7_mozart2_2.csv: Level=medium, Shifting=normal shifting
+vio10_mend1.csv: Level=medium, Shifting=normal shifting
+vio6_wind.csv: Level=advanced, Shifting=normal shifting
+vio5_wind.csv: Level=medium, Shifting=more shifting
+vio8_mend2.csv: Level=medium, Shifting=normal shifting
+vio6_elgar.csv: Level=medium, Shifting=more shifting
+vio2_bach1.csv: Level=medium, Shifting=normal shifting
+vio7_bach2.csv: Level=medium, Shifting=less shifting
+vio5_beeth1.csv: Level=medium, Shifting=normal shifting
+vio6_mend1.csv: Level=medium, Shifting=normal shifting
+vio9_mend2.csv: Level=medium, Shifting=normal shifting
+vio8_bach2.csv: Level=medium, Shifting=less shifting
+vio2_beeth2_1.csv: Level=medium, Shifting=normal shifting
+vio3_beeth1.csv: Level=beginner, Shifting=less shifting
+vio8_mozart1.csv: Level=medium, Shifting=normal shifting
+vio8_mozart2_1.csv: Level=medium, Shifting=normal shifting
+vio8_mend3.csv: Level=medium, Shifting=normal shifting
+vio1_beeth2_1.csv: Level=medium, Shifting=normal shifting
+vio1_beeth2_2.csv: Level=medium, Shifting=normal shifting
+vio4_flower.csv: Level=medium, Shifting=normal shifting
+vio5_mozart1.csv: Level=medium, Shifting=normal shifting
+vio3_elgar.csv: Level=medium, Shifting=more shifting
+vio7_mend1.csv: Level=medium, Shifting=normal shifting
+vio9_mend1.csv: Level=medium, Shifting=normal shifting
+vio7_beeth1.csv: Level=beginner, Shifting=normal shifting
+vio1_mend2.csv: Level=medium, Shifting=normal shifting
+vio3_bach1.csv: Level=beginner, Shifting=normal shifting
+vio2_beeth2_2.csv: Level=medium, Shifting=normal shifting
+vio5_flower.csv: Level=medium, Shifting=normal shifting
+vio3_wind.csv: Level=medium, Shifting=more shifting
+vio9_beeth2_2.csv: Level=medium, Shifting=normal shifting
+vio5_bach1.csv: Level=beginner, Shifting=less shifting
+vio5_mend2.csv: Level=medium, Shifting=normal shifting
+vio4_bach1.csv: Level=medium, Shifting=normal shifting
+vio1_elgar.csv: Level=advanced, Shifting=normal shifting
+vio7_wind.csv: Level=advanced, Shifting=normal shifting
+vio3_flower.csv: Level=medium, Shifting=normal shifting
+vio1_bach2.csv: Level=medium, Shifting=less shifting
+vio7_beeth2_2.csv: Level=medium, Shifting=normal shifting
+vio8_mend1.csv: Level=medium, Shifting=normal shifting
+vio3_mozart1.csv: Level=medium, Shifting=normal shifting
+vio5_mozart2_2.csv: Level=medium, Shifting=normal shifting
+vio10_mozart2_1.csv: Level=medium, Shifting=normal shifting
+vio6_mozart2_2.csv: Level=medium, Shifting=normal shifting
+vio8_beeth1.csv: Level=beginner, Shifting=normal shifting
+vio7_mend3.csv: Level=medium, Shifting=normal shifting
+vio6_mend2.csv: Level=medium, Shifting=normal shifting
+vio5_mend3.csv: Level=medium, Shifting=normal shifting
+vio3_mend2.csv: Level=medium, Shifting=normal shifting
+vio1_mend1.csv: Level=medium, Shifting=normal shifting
+vio8_bach1.csv: Level=medium, Shifting=normal shifting
+vio1_wind.csv: Level=advanced, Shifting=normal shifting
+vio4_beeth2_2.csv: Level=medium, Shifting=normal shifting
+vio9_mend3.csv: Level=medium, Shifting=normal shifting
+vio8_beeth2_2.csv: Level=medium, Shifting=normal shifting
+vio9_elgar.csv: Level=medium, Shifting=more shifting
+vio6_mend3.csv: Level=medium, Shifting=normal shifting
+vio2_beeth1.csv: Level=beginner, Shifting=normal shifting
+vio2_mend2.csv: Level=medium, Shifting=normal shifting
+vio9_bach2.csv: Level=medium, Shifting=less shifting
+vio7_mozart1.csv: Level=medium, Shifting=normal shifting
+vio10_mozart2_2.csv: Level=medium, Shifting=normal shifting
+vio3_mozart2_1.csv: Level=medium, Shifting=normal shifting
+vio10_mozart1.csv: Level=medium, Shifting=normal shifting
+vio9_flower.csv: Level=medium, Shifting=normal shifting
+vio4_mend1.csv: Level=medium, Shifting=normal shifting
+vio5_beeth2_1.csv: Level=beginner, Shifting=normal shifting
+vio7_mozart2_1.csv: Level=medium, Shifting=normal shifting
+vio2_bach2.csv: Level=medium, Shifting=less shifting
+vio6_mozart2_1.csv: Level=medium, Shifting=normal shifting
+vio9_beeth2_1.csv: Level=beginner, Shifting=normal shifting
+vio10_beeth2_2.csv: Level=medium, Shifting=normal shifting
+vio9_wind.csv: Level=advanced, Shifting=more shifting
+vio2_flower.csv: Level=medium, Shifting=normal shifting
+vio7_elgar.csv: Level=medium, Shifting=more shifting
+vio1_bach1.csv: Level=beginner, Shifting=less shifting
+vio4_mend3.csv: Level=medium, Shifting=normal shifting
+vio6_mozart1.csv: Level=medium, Shifting=normal shifting
+vio6_bach1.csv: Level=medium, Shifting=normal shifting
+vio2_mend3.csv: Level=medium, Shifting=normal shifting
+vio8_wind.csv: Level=advanced, Shifting=more shifting
+vio2_elgar.csv: Level=advanced, Shifting=more shifting
+vio4_wind.csv: Level=advanced, Shifting=normal shifting
+vio7_flower.csv: Level=medium, Shifting=normal shifting
+vio4_beeth2_1.csv: Level=medium, Shifting=normal shifting

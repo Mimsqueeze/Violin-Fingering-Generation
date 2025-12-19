@@ -2,3 +2,5 @@
 /lora_prefix_models
 /model_transformer
 /musicxml_output
+/archive
+__pycache__/

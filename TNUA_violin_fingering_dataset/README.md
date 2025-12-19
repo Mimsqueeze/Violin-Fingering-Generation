@@ -2,6 +2,7 @@ For each file, each row indicates a note event, and each column denotes as follo
 
 **pitch**
 midi numbers of note events, pitch range = 55 to 100
+55 is a G3, 76 is an E5, 88 is E6, 100 is E7
 
 **start**
 onset times measured in beats (negative number indicates beats of an incomplete measure)
