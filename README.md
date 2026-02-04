@@ -2,6 +2,7 @@
 
 Cool project that I worked on during Fall 2025 for CMSC838B: Differentiable Programming under Dr. Ming Lin @ UMD!
 Access the full report here: https://www.overleaf.com/read/tkgcrfxptrzj#61e195
+
 The PDF report is also included in this repo: https://github.com/Mimsqueeze/Violin-Fingering-Generation/blob/main/CMSC838B_Final_Report.pdf
 
 # Abstract
